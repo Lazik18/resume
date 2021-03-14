@@ -1,0 +1,4 @@
+x1 = x2 = -1
+x - any
+No real roots
+x1 = 5 x2 = -5
