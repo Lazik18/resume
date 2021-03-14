@@ -1,0 +1,3 @@
+Integral (Left rectangle) = 9.55199 Time: 6.09e-05 Second
+Integral (Right rectangle) = 9.49599 Time: 0.0375728 Second
+Integral (Trapez) = 9.57205 Time: 0.0383105 Second
